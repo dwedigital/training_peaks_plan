@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "training-peaks-cal"
+version = "0.1.0"
+description = "Read events in a training peaks calendar"
+authors = ["Dave Edwards <dave@dwedigital.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+requests = "^2.32.3"
+icalendar = "^6.1.0"
+python-dotenv = "^1.0.1"
+black = "^24.10.0"
+postmarker = "^1.0"
+pytz = "^2024.2"
+
+[tool.poetry.group.dev.dependencies]
+poetry = "^1.8.4"
+pytest = "^8.3.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
