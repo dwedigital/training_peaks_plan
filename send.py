@@ -62,7 +62,7 @@ def send_email():
         TextBody="Please find attached the plan for next week",
     )
 
-    # attach the binary contents of events.csv to the email
+    # attach the binary contents of week_plan.csv to the email
 
     email.attach_binary(open("week_plan.csv", "rb").read(), "week_plan.csv")
     email.send()

@@ -1,114 +1,121 @@
 [
     {
-        "description": "Workout type: Other\nActual Time: 0:42\n",
-        "end": "2024-11-23 16:01:58",
-        "start": "2024-11-23 15:01:58",
-        "summary": "Other: Other",
-        "uid": "bb886de0-dd6d-46bd-a5f1-003309fafa30"
-    },
-    {
-        "description": "Workout type: Rowing\nActual Time: 0:08\n",
-        "end": "2024-11-23 15:50:04",
-        "start": "2024-11-23 14:50:04",
-        "summary": "Rowing: Indoor Rowing",
-        "uid": "72365a12-4364-4b93-bec5-ed3c0a9b6d73"
-    },
-    {
-        "description": "Workout type: Run\nActual Time: 0:42\nActual Distance: 5.76 km\nSpeed: 9.05 km/h\nPace: 6.63 min/km\n",
-        "end": "2024-11-24 10:15:02",
-        "start": "2024-11-24 09:15:02",
+        "description": "Workout type: Run\nActual Time: 0:49\nActual Distance: 8.82 km\nSpeed: 11.92 km/h\nPace: 5.03 min/km\n",
+        "end": "2024-11-29 09:56:41",
+        "start": "2024-11-29 08:56:41",
         "summary": "Run: Running",
-        "uid": "c2269611-c68e-47db-a194-c78462e956a6"
-    },
-    {
-        "description": "Workout type: Run\nActual Time: 0:06\nActual Distance: 1.16 km\nSpeed: 12.39 km/h\nPace: 4.84 min/km\n",
-        "end": "2024-11-25 16:06:39",
-        "start": "2024-11-25 15:06:39",
-        "summary": "Run: Running",
-        "uid": "3dc4ad6c-d3ad-466d-9368-c9ccd0839103"
-    },
-    {
-        "description": "Workout type: Run\nActual Time: 0:24\nActual Distance: 5.01 km\nSpeed: 12.59 km/h\nPace: 4.77 min/km\n",
-        "end": "2024-11-25 16:14:54",
-        "start": "2024-11-25 15:14:54",
-        "summary": "Run: Running",
-        "uid": "b8a16af1-9105-485e-838d-d4e49be3d782"
-    },
-    {
-        "description": "Workout type: Run\nEasy run\nActual Time: 0:40\nActual Distance: 7.53 km\nSpeed: 11.32 km/h\nPace: 5.3 min/km\n",
-        "end": "2024-11-27 13:13:31",
-        "start": "2024-11-27 12:13:31",
-        "summary": "Run: Running",
-        "uid": "46f703e9-501c-48f3-942e-0ae14b01c514"
+        "uid": "8da38374-64fd-4044-84a7-fa3360b9dca8"
     },
     {
         "description": "Workout type: Day Off\n",
         "end": "2024-12-03",
         "start": "2024-12-02",
         "summary": "Day Off: Rest Day",
-        "uid": "1d0e18c0-e19c-4564-aa21-8af0749794df"
+        "uid": "dc4ff3ae-a4d6-4c8f-ab04-c64212ab6006"
     },
     {
         "description": "Workout type: Run\nThis continuous Endurance Run (ER) should be completed at an easy effort with good form. Ensure a thorough warm up prior to starting and slowly ease into the appropriate effort.\n\nIf tired or injured then slow down, cut the run short or skip the session entirely.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR)\n\nEffort is more important than pace.\nPlanned Time: 0:30\n",
         "end": "2024-12-04",
         "start": "2024-12-03",
         "summary": "Run: Endurance Run",
-        "uid": "19282756-70cf-4073-a28a-e28f4242591d"
+        "uid": "0f8e3076-c02c-40c6-bf0e-776897fa2d61"
     },
     {
         "description": "Workout type: Run\nThis continuous Endurance Run (ER) should be completed at an easy effort with good form. Ensure a thorough warm up prior to starting and slowly ease into the appropriate effort.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR)\n\nEffort is more important than pace.\nPlanned Time: 0:30\n",
         "end": "2024-12-05",
         "start": "2024-12-04",
         "summary": "Run: Optional Endurance Run",
-        "uid": "b65ec1f6-32c7-438e-b43a-051d214f5379"
+        "uid": "05a45236-377d-42bc-8b82-fbdae2650eac"
     },
     {
         "description": "Workout type: Run\nWorkout:\n\n- 15:00 easy Endurance Run warm up\n- 6-8 x 00:15 fast strides / 1:30 jog recovery\n- 10:00 cooldown at an easy ER effort\n\nRun the stride intervals at a fast but relaxed and controlled effort. Strides are not sprints and you shouldn't be straining. Gently accelerate for the first 5s, hold top speed for 5s and decelerate for 5s.\nStride intensity guide:\n\nRPE: 9-10\nEffort: Fast\nBreathing: Short and rapid\nTalk test: Probably no words\nHeart Rate: Z5\nPace: 800 - 1600m\nPlanned Time: 0:39\n",
         "end": "2024-12-06",
         "start": "2024-12-05",
         "summary": "Run: Interval Session - Build Strides",
-        "uid": "81f44d31-78d8-4764-b7e0-92754bbf7214"
+        "uid": "9eb9c9b5-69d5-4f77-bc3a-1189cc38795f"
     },
     {
         "description": "Workout type: Day Off\n",
         "end": "2024-12-07",
         "start": "2024-12-06",
         "summary": "Day Off: Rest Day",
-        "uid": "6928ff0a-394b-488f-b7e4-e35e91eabb26"
+        "uid": "ce6b6e49-e83d-4262-958b-b39c66da1356"
     },
     {
         "description": "Workout type: Run\nThis continuous Endurance Run (ER) should be completed at an easy effort with good form. Ensure a thorough warm up prior to starting and slowly ease into the appropriate effort.\n\nIf tired or injured then slow down, cut the run short or skip the session entirely.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR)\n\nEffort is more important than pace.\nPlanned Time: 0:30\n",
         "end": "2024-12-08",
         "start": "2024-12-07",
         "summary": "Run: Optional Endurance Run",
-        "uid": "595e0711-3c62-44ce-b7c7-8ff57f7de9fa"
+        "uid": "3fa5f335-d555-413b-b30a-7a095c4e69fc"
     },
     {
         "description": "Workout type: Run\nThis long run should be completed at an easy effort with good form. Be conscious that your effort might increase with duration so be sure to reduce your pace to keep the effort easy and consistent.\n\nThese sessions are an opportunity to practice the fueling and hydration strategy you will use on race day as well as test any gear you will be racing in.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR)\n\nEffort is more important than pace.\nPlanned Time: 1:30\n",
         "end": "2024-12-09",
         "start": "2024-12-08",
         "summary": "Run: Long Run",
-        "uid": "51ec0e38-8965-4d36-a617-d34d0cdf860d"
+        "uid": "fd8cdb50-0e1d-445a-9422-5581d25f3b7d"
     },
     {
         "description": "Workout type: Day Off\n",
         "end": "2024-12-10",
         "start": "2024-12-09",
         "summary": "Day Off: Rest Day",
-        "uid": "8844c1f4-5469-421b-a950-600e5eb6fae7"
+        "uid": "7e8f6f5c-b1a3-42be-a9c5-6e7c2d1829cc"
     },
     {
         "description": "Workout type: Run\nWarm up thoroughly prior and begin workout at an easy effort. Find a hill with a 4-8% grade and run fast up whilst remaining relaxed and controlled. Recover by walking back to your starting point and don't start another rep until fully rested or 90s is up.\n\nHill strides improve mechanical power output, lower leg strength, running economy and reinforce good running form.\nHill Stride intensity guide:\n\nRPE: 9-10\nEffort: Fast\nBreathing: Short and rapid\nTalk test: Probably no words\nHeart Rate: Z5\nPace: 800 - 1600m\nPlanned Time: 0:36\n",
         "end": "2024-12-11",
         "start": "2024-12-10",
         "summary": "Run: Build Hill Strides: 6-8 x 10s",
-        "uid": "71813733-60f2-49f6-86a7-0d45a32cb25d"
+        "uid": "8c241eb1-50d2-4365-b65c-6ba0c5862942"
     },
     {
         "description": "Workout type: Run\nThis continuous Endurance Run (ER) should be completed at an easy effort with good form. Ensure a thorough warm up prior to starting and slowly ease into the appropriate effort.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR\n\nEffort is more important than pace.\nPlanned Time: 0:30\n",
         "end": "2024-12-12",
         "start": "2024-12-11",
         "summary": "Run: Optional Endurance Run",
-        "uid": "66380639-0d8b-441b-925d-d0ffe56cb4f9"
+        "uid": "51775497-5e31-4f9f-8cde-283a95ee001c"
+    },
+    {
+        "description": "Workout type: Run\nThis is an all-out effort for 3000m (1.86 miles). Aim is to complete the distance in the quickest time possible. The aim is to measure your aerobic fitness, find out whether your fitness is improving and calculate your current training paces for different distances.\n\nThe effort/intensity should be hard but sustainable for the whole distance. Be sure to choose a flat, fast road or track to perform the test on. Do not choose a day when there is a tailwind or a downhill course.\n\nPerform a thorough warm up (10-15mins) before starting the test. This can include dynamic stretching, drills and strides.\n\nAfter be sure to hydrate, eat well and get a good nights sleep!\n",
+        "end": "2024-12-13",
+        "start": "2024-12-12",
+        "summary": "Run: 3k Benchmark Test",
+        "uid": "2b94280e-fa59-448c-b234-946d7447a4e3"
+    },
+    {
+        "description": "Workout type: Run\nThe 30min Time Trial Method\n\nFind somewhere which is conducive to fast running i.e. treadmill, track or flat road.\nEnsure you are able to measure time, distance and heart rate. Pick a day you are not feeling fatigued.\n\nEnsure a proper warm up before the test.\n\nRun at the fastest pace you can sustain for 30mins. Try not to start too fast and have to slow down due to fatigue as this will produce an inaccurate result.\n\nAt the 10 minute mark, make a note of your heart rate. When you stop at 30 minutes, make a note of your heart rate. Add these two heart rate values together then divide by two and this is your Lactate Threshold Heart Rate. The average pace for the entire 30min TT is your Lactate Threshold Pace, assuming your pace was fairly steady.\n\nThese values are usually fairly accurate but will never be as accurate as laboratory testing.\nPlanned Time: 0:30\n",
+        "end": "2024-12-13",
+        "start": "2024-12-12",
+        "summary": "Run: Lactate Threshold Test: The 30min Test",
+        "uid": "b1dd6545-dbaa-4e9b-8f53-b26f02989ba8"
+    },
+    {
+        "description": "Workout type: Day Off\n",
+        "end": "2024-12-14",
+        "start": "2024-12-13",
+        "summary": "Day Off: Rest Day",
+        "uid": "55fbc21b-ff46-471f-8ae2-114b0d69d06b"
+    },
+    {
+        "description": "Workout type: Run\nThis continuous Endurance Run (ER) should be completed at an easy effort with good form. Ensure a thorough warm up prior to starting and slowly ease into the appropriate effort.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR\n\nEffort is more important than pace.\nPlanned Time: 0:30\n",
+        "end": "2024-12-15",
+        "start": "2024-12-14",
+        "summary": "Run: Optional Endurance Run",
+        "uid": "1dd87f58-7c4f-49ad-9f68-84a8a08e5ab2"
+    },
+    {
+        "description": "Workout type: Run\nThis long run should be completed at an easy effort with good form. Be conscious that your effort might increases with duration so be sure to reduce your pace to keep the effort easy and consistent.\n\nThese sessions are an opportunity to practice the fueling and hydration strategy you will use on race day as well as test any gear you will be racing in.\nEndurance Run intensity guide:\n\nRate of Perceived Exertion: 5-6\nEffort/Intensity: Easy - 'Forever' pace\nBreathing: Rhythmic, moderate depth, not laboured\nTalk test: Comfortable conversation\nHeart Rate: Z2 (65-75% MHR or 85-89% LTHR)\n\nEffort is more important than pace.\nPlanned Time: 1:40\n",
+        "end": "2024-12-16",
+        "start": "2024-12-15",
+        "summary": "Run: Long Run",
+        "uid": "a04052c1-c22e-4ab8-86ba-bc65189ee183"
+    },
+    {
+        "description": "Workout type: Day Off\n",
+        "end": "2024-12-17",
+        "start": "2024-12-16",
+        "summary": "Day Off: Rest Day",
+        "uid": "14b923ab-bc71-49f0-b64f-ec3a2bce2485"
     }
 ]

@@ -4,20 +4,22 @@ import icalendar
 import os
 import requests
 from datetime import datetime
+import json
 
 
 def get_calendar():
 
+
+
+    # Fetch the data from the external URL
+    url = "https://www.trainingpeaks.com/ical/3NZQ3FB3XBWUC.ics"
+    response = requests.get(url)
     # Get the current date and time
     now = datetime.now()
 
     # Create a new file name with the current date and time
     file_name = "training_peaks_" + now.strftime("%Y%m%d_%H%M%S") + ".ics"
-
-    # Fetch the data from the external URL
-    url = "https://www.trainingpeaks.com/ical/3NZQ3FB3XBWUC.ics"
-    response = requests.get(url)
-
+    
     # Write the data to the training_peaks.ics file
     with open(f"{file_name}", "wb") as f:
         f.write(response.content)
@@ -41,17 +43,21 @@ def get_events_from_latest_file(events):
     import glob
 
     files = glob.glob("*.ics")
+    # get the latest file
+    files.sort(key=os.path.getmtime)
+    latest_file = files[-1:]
+    
 
     # Read the ics file
 
     # Create an empty list to store the events
 
     # Loop through the events in the ics file
-    for file in files:
-        with open(file, "r") as f:
-            cal = icalendar.Calendar.from_ical(f.read())
+
+    with open(latest_file[0], "r") as f:
+        cal = icalendar.Calendar.from_ical(f.read())
         for event in cal.walk("vevent"):
-            # check if event with uid already exists in events
+        # check if event with uid already exists in events
 
             for e in events:
                 if e["uid"] == event.get("uid"):
@@ -87,12 +93,11 @@ def get_events_from_latest_file(events):
 
 def write_events_to_json(events):
     # Save the events as a JSON file
-    import json
 
-    json = json.dumps(events, indent=4, sort_keys=True, default=str)
+    json_data = json.dumps(events, indent=4, sort_keys=True, default=str)
 
     with open("events.json", "w") as f:
-        f.write(json)
+        f.write(json_data)
 
 
 def write_csv(events):
@@ -120,3 +125,4 @@ if __name__ == "__main__":
     write_events_to_json(events)
     print("Events saved to events.json")
     write_csv(events)
+    print("Job completed: {}\n".format(datetime.now()))
